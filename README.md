@@ -116,7 +116,7 @@ J'ai pu réaliser plusieurs tests, et j'ai eu de bons résultats.
 
 ### Limites
 
-- J'ai adapté le prétraitement à ce dataset, mais dans l'idéal et avec un dataset plus gros et plus bruyant, il faudrait mieux nettoyer les données, dans mon cas comme il n'y avait pas de données manquantes, je n'ai pas traité cet aspect, mais dans l'idéal il faudrait ajouter une fonction pour soit remplir ces données ou les supprimer.
+- J'ai adapté le prétraitement à ce dataset, mais dans l'idéal et avec un dataset plus gros et avec plus de bruits, il faudrait mieux nettoyer les données, dans mon cas comme il n'y avait pas de données manquantes, je n'ai pas traité cet aspect, mais dans l'idéal il faudrait ajouter une fonction pour soit remplir ces données ou les supprimer.
 
 - J'ai testé sur plusieurs modèles, mais il serait intéressant de lire quelques articles pour voir quel modèle pourrait être le plus adapté à ce type de dataset.
 
