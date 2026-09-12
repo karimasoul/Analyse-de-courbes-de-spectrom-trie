@@ -12,11 +12,11 @@ L'unité de mesure n'était pas clairement donnée, mais les données semblaient
 
 ### Nettoyage des données
 
-J'ai commencé à vérifier s'il y avait des données manquantes, des doublons...
-Pour "ACETATE", le nombre de groupes de doublons est de 19. Les autres n'en ont pas.
-J'ai alors fusionné les doublons, et j'ai ensuite voulu vérifier s'il y avait du bruit dans les données.
-J'ai pour cela considéré un spectre comme aberrant si sa moyenne ou son écart-type est trop éloigné de la distribution des autres spectres de la même matière.
-J'ai retiré les spectres jugés comme aberrants.
+J'ai commencé à vérifier s'il y avait des données manquantes, des doublons... <br>
+Pour "ACETATE", le nombre de groupes de doublons est de 19. Les autres n'en ont pas. <br>
+J'ai alors fusionné les doublons, et j'ai ensuite voulu vérifier s'il y avait du bruit dans les données. <br>
+J'ai pour cela considéré un spectre comme aberrant si sa moyenne ou son écart-type est trop éloigné de la distribution des autres spectres de la même matière. <br>
+J'ai retiré les spectres jugés comme aberrants. <br>
 
 J'ai pu remarquer que sur les 100 premiers spectres, il y avait une courbe de LIN qui était particulièrement éloignée, elle est retirée après le nettoyage des données :
 - Avant nettoyage :
